@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3"
+   name=""
+   committed-date="2005-02-26T22:34:37.365317Z"
+   url="svn+ssh://svn.berlios.de/svnroot/repos/sharp-bot/trunk/bin/Debug"
+   last-author="espenfjo"
+   kind="dir"
+   uuid="b853e2ff-a2f0-0310-970f-a507292bcb8e"
+   revision="3"/>
+<entry
+   committed-rev="3"
+   name="IRC-bot.exe"
+   text-time="2005-02-26T22:36:26.000000Z"
+   committed-date="2005-02-26T22:34:37.365317Z"
+   checksum="e9e674190490d60a3894b10261a1fe0b"
+   last-author="espenfjo"
+   kind="file"
+   prop-time="2005-02-26T22:36:26.000000Z"/>
+<entry
+   committed-rev="3"
+   name="IRC-bot.exe.mdb"
+   text-time="2005-02-26T22:36:26.000000Z"
+   committed-date="2005-02-26T22:34:37.365317Z"
+   checksum="2f75940a6a5f1c69281280af7a10bca3"
+   last-author="espenfjo"
+   kind="file"
+   prop-time="2005-02-26T22:36:26.000000Z"/>
+</wc-entries>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3"
+   name=""
+   committed-date="2005-02-26T22:34:37.365317Z"
+   url="svn+ssh://svn.berlios.de/svnroot/repos/sharp-bot/trunk"
+   last-author="espenfjo"
+   kind="dir"
+   uuid="b853e2ff-a2f0-0310-970f-a507292bcb8e"
+   revision="3"/>
+<entry
+   committed-rev="3"
+   name="IRC-bot.mds"
+   text-time="2005-02-26T22:36:26.000000Z"
+   committed-date="2005-02-26T22:34:37.365317Z"
+   checksum="878b9424d1dbc44c1dda39d90333af4e"
+   last-author="espenfjo"
+   kind="file"
+   prop-time="2005-02-26T22:36:26.000000Z"/>
+<entry
+   name="bin"
+   kind="dir"/>
+<entry
+   committed-rev="4"
+   name="ircLib.cs"
+   text-time="2005-02-26T22:38:05.000000Z"
+   committed-date="2005-02-26T22:38:39.715491Z"
+   checksum="d9247b078445dad49910fe41b218ee22"
+   last-author="espenfjo"
+   kind="file"
+   prop-time="2005-02-26T22:36:26.000000Z"
+   revision="4"/>
+<entry
+   committed-rev="3"
+   name="Program.cs"
+   text-time="2005-02-26T22:36:26.000000Z"
+   committed-date="2005-02-26T22:34:37.365317Z"
+   checksum="ba39771953a95a514203e0a62a7208cc"
+   last-author="espenfjo"
+   kind="file"
+   prop-time="2005-02-26T22:36:26.000000Z"/>
+<entry
+   committed-rev="3"
+   name="IRC-bot.mdp"
+   text-time="2005-02-26T22:36:26.000000Z"
+   committed-date="2005-02-26T22:34:37.365317Z"
+   checksum="66f7dc6e25d37072703dfeb124251cf3"
+   last-author="espenfjo"
+   kind="file"
+   prop-time="2005-02-26T22:36:26.000000Z"/>
+</wc-entries>

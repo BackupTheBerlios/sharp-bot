@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="3"
+   name=""
+   committed-date="2005-02-26T22:34:37.365317Z"
+   url="svn+ssh://svn.berlios.de/svnroot/repos/sharp-bot/trunk/bin"
+   last-author="espenfjo"
+   kind="dir"
+   uuid="b853e2ff-a2f0-0310-970f-a507292bcb8e"
+   revision="3"/>
+<entry
+   name="Debug"
+   kind="dir"/>
+</wc-entries>
